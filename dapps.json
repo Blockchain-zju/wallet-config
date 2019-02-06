@@ -1,26 +1,32 @@
-[
-  {
-    "name":"pixelmaster",                           
-    "icon":"https://pixelmaster.io/favicon.png",             
-    "abstract":"世界首个基于区块链技术的协作艺术品",                 
-    "intro":"EOS PIXEL MASTER 是世界首个基于区块链技术的协作艺术品。您可以使用工具栏去选择工具并进行绘画，然后使用 EOS 去支付购买像素，前提是您需要有一个 EOS 账号和安装了 Scatter (在移动设备上您可以使用 TokenPocket )",       
-    "url":"https://pixelmaster.io/",               
-    "author":"EOSAsia",                          
-    "images":[                             
-      "https://pbs.twimg.com/media/DoKTFbBUwAA2wr6.jpg",
-      "https://steemitimages.com/0x0/https://huntimages.s3.us-west-2.amazonaws.com/production/steemhunt/2018-09-29/09ce4456-Screen%20Shot%202018-09-29%20at%209.57.22%20AM.png"
-    ]
-  },
-  {
-    "name":"EOS Knights",
-    "icon":"https://lh3.googleusercontent.com/I83GYihR-l5GabkJG2AUD0tbzRrrqwv7JoawnVW8beRXkO6c6ZqnHdbPfQs3Kf_pIYo=s180",
-    "abstract":"韩国BADA工作室开发的RPG游戏",
-    "intro":"EOS骑士作为一款可在安卓和IOS上运行的休闲类RPG游戏，是最早在EOS上落地的游戏项目之一。<br/><br/>快从哥布林的手中拯救村庄！游戏中会出现许多哥布林（兽人），它们都将是你的敌人。在你为你的队伍雇佣一些英雄后，他们将自动开始屠杀哥布林。如果你屠光了这一层的兽人，队伍会进入下一层继续冒险。当你的英雄们状态不好时，你可以选择重生他们，并结束这次探险。你可以用探险得到的奖励制作强大的装备，或购买宠物给自己的英雄加Buff。有意思的是，在你离开游戏后，你忠诚的英雄们依然会继续他们的冒险，这将为你节省大量的时间。",
-    "url":"https://eosknights.io/",
-    "author":"Bada Studio",
-    "images":[
-       "https://cryptobitgames.com/wp-content/uploads/2018/07/EOS-knights-3.jpg",
-      "https://steemitimages.com/0x0/https://cdn.steemitimages.com/DQmZjT7sQZAxD5bxYFBd98Bfodhx9RjsgAERukyixN2ZELe/Screen%20Shot%202018-08-21%20at%2009.09.56.png"
-    ]
-  }
-]
+{
+  "tool":[],
+  "game":[
+     {
+      "name":"pixelmaster",                           
+      "icon":"https://pixelmaster.io/favicon.png",             
+      "abstract":"世界首个基于区块链技术的协作艺术品",                 
+      "intro":"EOS PIXEL MASTER 是世界首个基于区块链技术的协作艺术品。您可以使用工具栏去选择工具并进行绘画，然后使用 EOS 去支付购买像素，前提是您需要有一个 EOS 账号和安装了 Scatter (在移动设备上您可以使用 TokenPocket )",       
+      "url":"https://pixelmaster.io/",               
+      "author":"EOSAsia",                          
+      "images":[                             
+        "https://pbs.twimg.com/media/DoKTFbBUwAA2wr6.jpg",
+        "https://steemitimages.com/0x0/https://huntimages.s3.us-west-2.amazonaws.com/production/steemhunt/2018-09-29/09ce4456-Screen%20Shot%202018-09-29%20at%209.57.22%20AM.png"
+      ]
+    },
+    {
+      "name":"EOS Knights",
+      "icon":"https://lh3.googleusercontent.com/I83GYihR-l5GabkJG2AUD0tbzRrrqwv7JoawnVW8beRXkO6c6ZqnHdbPfQs3Kf_pIYo=s180",
+      "abstract":"韩国BADA工作室开发的RPG游戏",
+      "intro":"EOS骑士作为一款可在安卓和IOS上运行的休闲类RPG游戏，是最早在EOS上落地的游戏项目之一。<br/><br/>快从哥布林的手中拯救村庄！游戏中会出现许多哥布林（兽人），它们都将是你的敌人。在你为你的队伍雇佣一些英雄后，他们将自动开始屠杀哥布林。如果你屠光了这一层的兽人，队伍会进入下一层继续冒险。当你的英雄们状态不好时，你可以选择重生他们，并结束这次探险。你可以用探险得到的奖励制作强大的装备，或购买宠物给自己的英雄加Buff。有意思的是，在你离开游戏后，你忠诚的英雄们依然会继续他们的冒险，这将为你节省大量的时间。",
+      "url":"https://eosknights.io/",
+      "author":"Bada Studio",
+      "images":[
+         "https://cryptobitgames.com/wp-content/uploads/2018/07/EOS-knights-3.jpg",
+        "https://steemitimages.com/0x0/https://cdn.steemitimages.com/DQmZjT7sQZAxD5bxYFBd98Bfodhx9RjsgAERukyixN2ZELe/Screen%20Shot%202018-08-21%20at%2009.09.56.png"
+      ]
+    }
+  ],
+  "social":[],
+  "blockchain":[],
+  "creative":[]
+}
