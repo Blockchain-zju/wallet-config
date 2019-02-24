@@ -1,6 +1,17 @@
 {
-  "tool":[],
-  "game":[
+  "ZJUBCA":[
+    {
+      "name":"zjubca.vote",
+      "icon":"",
+      "abstract":"协会内部的提案公投系统",
+      "intro":"",
+      "url":"https://vote.zjubca.org",
+      "author":"lowesyang",
+      "images":[]
+    }
+  ],
+  "TOOL":[],
+  "GAME":[
      {
       "name":"pixelmaster",                           
       "icon":"https://pixelmaster.io/favicon.png",             
@@ -26,7 +37,7 @@
       ]
     }
   ],
-  "social":[],
-  "blockchain":[],
-  "creative":[]
+  "SOCIAL":[],
+  "BLOCKCHAIN":[],
+  "CREATIVE":[]
 }
