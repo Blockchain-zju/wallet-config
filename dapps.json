@@ -2,11 +2,20 @@
   "ZJUBCA":[
     {
       "name":"zjubca.vote",
-      "icon":"https://wx1.sinaimg.cn/large/66bb17eely1g0hifvgkdnj20hs0hs74v.jpg",
+      "icon":"https://wx4.sinaimg.cn/large/66bb17eegy1g0k2h0c5okj20hs0hst96.jpg",
       "abstract":"协会内部的提案公投系统",
       "intro":"",
       "url":"https://vote.zjubca.org",
-      "author":"lowesyang",
+      "author":"LowesYang",
+      "images":[]
+    },
+    {
+      "name":"ZJUBCA文档库",
+      "icon":"https://wx1.sinaimg.cn/large/66bb17eely1g0hifvgkdnj20hs0hs74v.jpg",
+      "abstract":"协会内部资料、文档、知识库",
+      "intro":"",
+      "url":"https://docs.zjubca.org",
+      "author":"ZJUBCA",
       "images":[]
     }
   ],
@@ -34,7 +43,8 @@
       "icon":"https://wx3.sinaimg.cn/large/66bb17eegy1g0jq0w5t0hj205k05k0t0.jpg",
       "abstract":"EOS主网数据分析实验室",
       "url":"https://labs.eostitan.com",
-      "author":"EOS Titan"
+      "author":"EOS Titan",
+      "images":[]
     }
   ],
   "TOOL":[],
@@ -52,7 +62,7 @@
       ]
     }
   ],
-  "BOOKS":[
+  "KNOWLEDGE":[
     {
       "name":"精通比特币",
       "icon":"https://en.bitcoin.it/w/images/en/2/29/BC_Logo_.png",
@@ -60,6 +70,15 @@
       "intro":"比特币入门圣经",
       "url":"http://book.8btc.com/books/6/masterbitcoin2cn/_book/",
       "author":"Andreas M.Antonopoulos",
+      "images":[]
+    },
+    {
+      "name":"EOS词典",
+      "icon":"https://ws3.sinaimg.cn/large/66bb17eegy1g0k2qzfvgfj20b40b474e.jpg",
+      "abstract":"每个EOS用户都应该知道的术语，让学习和理解区块链术语更容易",
+      "intro":"",
+      "url":"https://www.eoscanada.com/zh/abc-eos",
+      "author":"EOSCanada",
       "images":[]
     }
   ]
