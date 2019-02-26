@@ -10,7 +10,25 @@
       "images":[]
     }
   ],
-  "BLOCKCHAIN":[
+  "INFO":[
+    {
+      "name":"IMEOS",
+      "icon":"https://tvax4.sinaimg.cn/crop.0.0.200.200.180/0076fC1zly8fpuy1rg9mej305k05kwek.jpg",
+      "abstract":"EOS Dapp生态门户",
+      "intro":"",
+      "url":"https://imeos.one/",
+      "author":"imeos",
+      "images":[]
+    },
+    {
+      "name":"Dapp Radar",
+      "icon":"https://ws3.sinaimg.cn/large/66bb17eegy1g0jpw8adtnj20b40b40sy.jpg",
+      "abstract":"查阅Dapp活跃排行榜",
+      "intro":"",
+      "url":"https://dappradar.com/rankings/protocol/eos",
+      "author":"DappRadar",
+      "images":[]
+    },
     {
       "name":"EOSX",
       "icon":"https://prod-eoskit-cdn-aliyun.shangxianle.com/static/assets/eosx-logo_e7a12dadd12eadd5a56946d0d2d7f065.png",
@@ -19,6 +37,13 @@
       "url":"https://kylin.eosx.io",
       "author":"EOSX",
       "images":[]
+    },
+    {
+      "name":"EOS Titan Labs",
+      "icon":"https://eostitan.com/assets/logo.png",
+      "abstract":"EOS主网数据分析实验室",
+      "url":"https://labs.eostitan.com",
+      "author":"EOS Titan"
     }
   ],
   "TOOL":[],
@@ -38,12 +63,22 @@
   ],
   "COMMUNITY":[
     {
+      "name":"EOS麒麟知识库",
+      "icon":"https://res.cloudinary.com/hrscywv4p/image/upload/c_limit,fl_lossy,h_300,w_300,f_auto,q_auto/v1/659/e8534a1a-a904-4dc8-a628-f15ab70eb630_f39sv4.png",
+      "abstract":"麒麟知识库 - EOS技术社区",
+      "intro":"",
+      "url":"http://knowledge.cryptokylin.io/",
+      "author":"CryptoKylin",
+      "images":[]
+    },
+    {
       "name":"EOSFans",
-      "icon":"https://ws4.sinaimg.cn/large/66bb17eegy1g0jphlj6eoj20p00k0q3r.jpg",
+      "icon":"https://eosfans-static.strahe.com/photo/logo100x100.png",
       "abstract":"EOS中文社区，讨论分享关于EOS的知识与想法",
       "intro":"EOS中文社区",
       "url":"https://eosfans.io/",
-      "author":"EOS"
+      "author":"EOS",
+      "images":[]
     }
   ],
   "BOOKS":[
@@ -53,7 +88,17 @@
       "abstract":"比特币原理全解析，区块链入门圣经（五星推荐）",
       "intro":"比特币入门圣经",
       "url":"http://book.8btc.com/books/6/masterbitcoin2cn/_book/",
-      "author":"Andreas M.Antonopoulos"
+      "author":"Andreas M.Antonopoulos",
+      "images":[]
+    },
+    {
+      "name":"EOS白皮书",
+      "icon":"",
+      "abstract":"EOSIO 技术白皮书",
+      "intro":"EOS白皮书",
+      "url":"https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md",
+      "author":"eosio",
+      "images":[]
     }
   ]
 }
