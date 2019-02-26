@@ -73,6 +73,15 @@
       "images":[]
     },
     {
+      "name":"区块链技术指南",
+      "icon":"https://ws2.sinaimg.cn/large/66bb17eely1g0kbn0uglcj205o05owel.jpg",
+      "abstract":"区块链技术是金融科技（Fintech）领域的一项重要技术创新",
+      "intro":"",
+      "url":"https://v1.8btc.com/books/834/blockchain_guide/_book/",
+      "author":"Baohua Yang",
+      "images":[]
+    },
+    {
       "name":"EOS词典",
       "icon":"https://ws3.sinaimg.cn/large/66bb17eegy1g0k2qzfvgfj20b40b474e.jpg",
       "abstract":"每个EOS用户都应该知道的术语，让学习和理解区块链术语更容易",
