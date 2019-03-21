@@ -1,6 +1,15 @@
 {
   "ZJUBCA":[
     {
+      "name":"ZJUBCA.TOKEN",
+      "icon":"https://ws1.sinaimg.cn/large/66bb17eely1g1aia3ve8zj2074074q39.jpg",
+      "abstract":"协会Toke监控与成员管理应用",
+      "intro":"监控协会Token的锁仓、已释放等基本信息，提供Token总量查询，交易查询与成员注册等功能",
+      "url":"https://token.zjubca.org",
+      "author":"ZJUBCA",
+      "images":[]
+    },
+    {
       "name":"ZJUBCA.VOTE",
       "icon":"https://wx4.sinaimg.cn/large/66bb17eegy1g0k2h0c5okj20hs0hst96.jpg",
       "abstract":"协会内部的提案公投系统",
