@@ -19,6 +19,15 @@
       "images":[]
     },
     {
+      "name":"ZJUBCA.BOUNTY",
+      "icon":"http://wx4.sinaimg.cn/large/66bb17eely1g26usmbesvj20nc0ncjs0.jpg",
+      "abstract":"活动、任务悬赏系统",
+      "intro":"",
+      "url":"https://bounty.zjubca.org",
+      "author":"Threaser Lou",
+      "images":[]
+    },
+    {
       "name":"ZJUBCA.DONATE",
       "icon":"https://ws4.sinaimg.cn/large/66bb17eely1g28ukkhl7rj2069069t8j.jpg",
       "abstract":"献出你的爱吧~",
