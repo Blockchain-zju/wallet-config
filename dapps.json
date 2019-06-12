@@ -57,15 +57,6 @@
   ],
   "INFO":[
     {
-      "name":"Dapp Radar",
-      "icon":"https://ws3.sinaimg.cn/large/66bb17eegy1g0jpw8adtnj20b40b40sy.jpg",
-      "abstract":"查阅Dapp活跃排行榜",
-      "intro":"",
-      "url":"https://dappradar.com/rankings/protocol/eos",
-      "author":"DappRadar",
-      "images":[]
-    },
-    {
       "name":"EOSPark",
       "icon":"https://wx4.sinaimg.cn/large/66bb17eegy1g0jqazbuiij20b40b4q2v.jpg",
       "abstract":"EOS麒麟测试网数据监控系统",
