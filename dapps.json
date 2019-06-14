@@ -76,24 +76,6 @@
       "url":"https://v1.8btc.com/books/834/blockchain_guide/_book/",
       "author":"Baohua Yang",
       "images":[]
-    },
-    {
-      "name":"央行数字货币研究与探讨",
-      "icon":"https://ws1.sinaimg.cn/large/66bb17eely1g18m5bwcvjj2069069dfm.jpg",
-      "abstract":"分析与探讨数字货币的发展方向、原型构想、技术路径选择、法律依据以及对货币政策的影响等关键问题。",
-      "url":"https://v1.8btc.com/books/834/cnfinance201617/_book/",
-      "intro":"",
-      "author":"",
-      "images":"中国金融杂志"
-    },
-    {
-      "name":"EOS词典",
-      "icon":"https://ws3.sinaimg.cn/large/66bb17eegy1g0k2qzfvgfj20b40b474e.jpg",
-      "abstract":"每个EOS用户都应该知道的术语，让学习和理解区块链术语更容易",
-      "intro":"",
-      "url":"https://www.eoscanada.com/zh/abc-eos",
-      "author":"EOSCanada",
-      "images":[]
     }
   ]
 }
