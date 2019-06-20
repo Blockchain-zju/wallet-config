@@ -50,14 +50,45 @@
       "icon":"https://wx3.sinaimg.cn/large/66bb17eegy1g202201elhj20fc0fcwem.jpg",
       "abstract":"EOS RAM,CPU,NET 资源加油站",
       "intro":"",
-      "url":"https://fuelfilling.zjubca.org",
+      "url":"http://fuelfilling.zjubca.org",
       "author":"ZJUBCA",
       "images":[]
     }
   ],
-  "INFO":[],
+  "INFO":[
+    {
+      "name":"EOSPark",
+      "icon":"https://wx4.sinaimg.cn/large/66bb17eegy1g0jqazbuiij20b40b4q2v.jpg",
+      "abstract":"EOS麒麟测试网数据监控系统",
+      "intro":"",
+      "url":"https://kylin.eospark.com/",
+      "author":"EOSPark",
+      "images":[]
+    },
+    {
+      "name":"EOS Titan Labs",
+      "icon":"https://wx3.sinaimg.cn/large/66bb17eegy1g0jq0w5t0hj205k05k0t0.jpg",
+      "abstract":"EOS主网数据分析实验室",
+      "url":"https://labs.eostitan.com",
+      "author":"EOS Titan",
+      "images":[]
+    }
+  ],
   "TOOL":[],
-  "GAME":[],
+  "GAME":[
+     {
+      "name":"pixelmaster",                           
+      "icon":"https://pixelmaster.io/favicon.png",             
+      "abstract":"世界首个基于区块链技术的协作艺术品",                 
+      "intro":"EOS PIXEL MASTER 是世界首个基于区块链技术的协作艺术品。您可以使用工具栏去选择工具并进行绘画，然后使用 EOS 去支付购买像素，前提是您需要有一个 EOS 账号和安装了 Scatter (在移动设备上您可以使用 TokenPocket )",       
+      "url":"https://pixelmaster.io/",               
+      "author":"EOSAsia",                          
+      "images":[                             
+        "https://pbs.twimg.com/media/DoKTFbBUwAA2wr6.jpg",
+        "https://steemitimages.com/0x0/https://huntimages.s3.us-west-2.amazonaws.com/production/steemhunt/2018-09-29/09ce4456-Screen%20Shot%202018-09-29%20at%209.57.22%20AM.png"
+      ]
+    }
+  ],
   "KNOWLEDGE":[
     {
       "name":"精通比特币",
@@ -75,6 +106,24 @@
       "intro":"",
       "url":"https://v1.8btc.com/books/834/blockchain_guide/_book/",
       "author":"Baohua Yang",
+      "images":[]
+    },
+    {
+      "name":"央行数字货币研究与探讨",
+      "icon":"https://ws1.sinaimg.cn/large/66bb17eely1g18m5bwcvjj2069069dfm.jpg",
+      "abstract":"分析与探讨数字货币的发展方向、原型构想、技术路径选择、法律依据以及对货币政策的影响等关键问题。",
+      "url":"https://v1.8btc.com/books/834/cnfinance201617/_book/",
+      "intro":"",
+      "author":"",
+      "images":"中国金融杂志"
+    },
+    {
+      "name":"EOS词典",
+      "icon":"https://ws3.sinaimg.cn/large/66bb17eegy1g0k2qzfvgfj20b40b474e.jpg",
+      "abstract":"每个EOS用户都应该知道的术语，让学习和理解区块链术语更容易",
+      "intro":"",
+      "url":"https://www.eoscanada.com/zh/abc-eos",
+      "author":"EOSCanada",
       "images":[]
     }
   ]
