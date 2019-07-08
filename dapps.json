@@ -53,6 +53,15 @@
       "url":"http://fuelfilling.zjubca.org",
       "author":"ZJUBCA",
       "images":[]
+    },
+    {
+      "name":"ZJUBCA.donate",
+      "icon":"https://wx4.sinaimg.cn/large/66bb17eely1g2079ta8rij20690693yb.jpg",
+      "abstract":"协会内部捐赠系统",
+      "intro":"",
+      "url":"https://zjufishboy.github.io/zjubca.donate",
+      "author":"ZJUBCA",
+      "images":[]
     }
   ],
   "INFO":[
